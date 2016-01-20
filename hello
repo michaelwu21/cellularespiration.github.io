@@ -1,0 +1,7 @@
+<head>
+  <script type="text/javascript">
+    window.onload = function() {
+      alert("Keep Calm and Eat Pi!");
+    };
+    </script>
+<h1 style="text-align:center">CBO- Ideas for robots and attachments</h1>
